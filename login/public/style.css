@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+    background-image: url('/assets/pexels-madison-inouye-1831234.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+form{
+    padding: 0 .1em;
+}
+
+#login.title >span{
+    font-size: .8 em;
+}
+
+.center-div{
+    padding-top: 10%;
+
+}
+.btn.btn-success{
+    padding: .4em 2em;
+}
